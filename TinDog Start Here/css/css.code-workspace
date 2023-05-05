@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "css",
+			"path": "../../../../Downloads/bootstrap-5.3.0-alpha3-dist/bootstrap-5.3.0-alpha3-dist/css"
+		},
+		{
+			"name": "Web development files",
+			"path": "../.."
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "TinDog Start Here"
+	}
+}
